@@ -5,14 +5,14 @@
 A single `.bat` file. Double-click, pick a number, press Enter. Every option says what it
 does and what it will cost you before it runs.
 
-Sibling to [CrapClean](https://github.com/S-procoder/CrapClean): that one clears clutter,
+Sibling to [CrapClean](https://github.com/QuantumCoder-14/CrapClean): that one clears clutter,
 this one clears the network state that goes stale.
 
 ---
 
 ## Run it
 
-1. Download `netreset.bat` from [Releases](https://github.com/S-procoder/NetReset/releases).
+1. Download `netreset.bat` from [Releases](https://github.com/QuantumCoder-14/NetReset/releases).
 2. Double-click it.
 3. Windows asks for administrator rights — **Yes**. It needs them; the network commands
    do nothing without.
